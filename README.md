@@ -13,4 +13,4 @@ Also make sure to join TheAtlanticCraft's dedicated [fan server](https://discord
 + [Chromaticwall](https://github.com/Chromaticwall)
 + [Norbi0001](https://github.com/Norbi0001)
 + [RichCool1](https://github.com/Richcool1)
-
++ [PAGaming](https://github.com/PAGaming)
