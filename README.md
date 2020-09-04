@@ -10,5 +10,6 @@ Requests for support should go to the [discord](https://discord.gg/atlanticcraft
 
 ## Discord Staff
 + [Chromaticwall](https://github.com/Chromaticwall)
++ [Norbi0001](https://github.com/Norbi0001)
 
 ## Support
