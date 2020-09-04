@@ -8,8 +8,8 @@ Requests for support should go to the [discord](https://discord.gg/atlanticcraft
 + [DoctorBang](https://github.com/DoctorBang)
 + [Voidswrath](https://github.com/voidswrath)
 
-## Discord Staff
+## Discord Staff and Support
 + [Chromaticwall](https://github.com/Chromaticwall)
 + [Norbi0001](https://github.com/Norbi0001)
++ [RichCool1](https://github.com/Richcool1)
 
-## Support
